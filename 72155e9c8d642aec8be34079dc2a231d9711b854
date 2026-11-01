@@ -1,0 +1,21 @@
+README-zh.md
+  s_e5720201168b5c::t_d027e2b29e8b89 510-511
+README.md
+  s_e5720201168b5c::t_d027e2b29e8b89 510-511
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "72155e9c8d642aec8be34079dc2a231d9711b854",
+  "prompts": {},
+  "sessions": {
+    "s_e5720201168b5c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18091-0c6a-7c10-8b99-04407006f7b3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yuxuan.weng <wengyx@trip.com>"
+    }
+  }
+}
