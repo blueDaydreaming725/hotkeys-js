@@ -1,0 +1,33 @@
+dist/hotkeys-js.min.js.map
+  s_e5720201168b5c::t_528c117659fa93 1
+dist/hotkeys-js.umd.cjs
+  s_e5720201168b5c::t_3640310e5e11bd 492-493
+dist/hotkeys-js.umd.cjs.map
+  s_e5720201168b5c::t_528c117659fa93 1
+src/index.ts
+  s_e5720201168b5c::t_3640310e5e11bd 527-528
+dist/hotkeys-js.js.map
+  s_e5720201168b5c::t_528c117659fa93 1
+dist/hotkeys-js.js
+  s_e5720201168b5c::t_3640310e5e11bd 488-489
+test/run.test.js
+  s_e5720201168b5c::t_6680a86cca130a 881-904
+dist/hotkeys-js.min.js
+  s_e5720201168b5c::t_528c117659fa93 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "e45a3a2648ca770a144296b01eb8b6b5eceebd69",
+  "prompts": {},
+  "sessions": {
+    "s_e5720201168b5c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18091-0c6a-7c10-8b99-04407006f7b3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yuxuan.weng <wengyx@trip.com>"
+    }
+  }
+}
